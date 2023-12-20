@@ -5,7 +5,7 @@
 <img align="right" alt="coding"  width="504" height="300" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajputHasim&label=Profile%20views&color=0e75b6&style=flat" alt="RajputHasim" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/saqib-shaikh-6760a5244/**
+- 📫 How to reach me **https://www.linkedin.com/in/hasim-rajput-0b98b4218/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
